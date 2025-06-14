@@ -3,6 +3,7 @@
 No Python, a criação de classes é uma parte essencial da programação orientada a objetos. Abaixo, temos um exemplo de uma classe chamada Musica que representa informações sobre uma música, como nome, artista e duração:
 
 class Musica:  
+
     nome = ''  
     artista = ''  
     duracao = int  
